@@ -1,5 +1,5 @@
-주요 기능. 노션에 업로드한 여행일지 데이터베이스를 노션의 태그 기능을 활용해 날짜, 난이도, 장소, 이동시간 여행일지 페이지에 표시(Next.js의 typeError: Cannot read property 'map' of undefined 오류 이슈로 구현 실패)
-부가 기능1. 나이트모드, 다크모드 설정 가능
+주요 기능. 노션에 업로드한 여행일지 데이터베이스를 노션의 태그 기능을 활용해 날짜, 난이도, 장소, 이동시간 여행일지 페이지에 표시(Next.js의 typeError: Cannot read property 'map' of undefined 오류 이슈로 구현 실패)<br>
+부가 기능1. 나이트모드, 다크모드 설정 가능<br>
 부가 기능2. 오픈채팅방으로 문의 가능
 
 
